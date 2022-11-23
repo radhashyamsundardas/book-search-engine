@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/radhashyamsundardas/book-search-engine/issues"
   },
-  "homepage": "https://github.com/radhashyamsundardas/book-search-engine#readme"
+  "homepage": "https://github.com/radhashyamsundardas/book-search-engine#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
